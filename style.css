@@ -1,0 +1,70 @@
+html{
+    background-color: burlywood;
+}
+
+div.logo{
+    text-align: center;
+}
+
+nav.enlaces{
+    text-align: center;
+    background-color: lightblue;
+}
+
+p.texto_1{
+    border-top: 15px solid blue;
+}
+
+p.texto_2{
+    border-bottom: 15px solid blue;
+}
+
+div.apartado_1{
+    background-color: white;
+    margin-left: 300px;
+    position: relative;
+    bottom: 180px;
+    padding: 10px;
+}
+
+img.foto_2{
+    width: 200px;
+    height: 200px;
+    float: right;
+    position: relative;
+    bottom: 150px;
+}
+
+div.apartado_2{
+    position: relative;
+    bottom: 150px;
+    background-color: lightgray;
+    padding: 10px;
+    margin-right: 200px;
+}
+
+p.texto_3{
+    border-top: 15px solid red;
+}
+
+p.texto_4{
+    border-bottom: 15px solid red;
+}
+
+span.amarillo{
+    background-color: yellow;
+}
+
+span.tachado{
+    text-decoration: line-through;
+}
+
+footer.abajo{
+    text-align: center;
+    font-weight: bold;
+}
+
+span.fondo{
+    background-color: white;
+}
+

@@ -1,0 +1,40 @@
+html{
+    background-color: burlywood;
+}
+
+div.logo{
+    text-align: center;
+}
+
+nav.enlaces{
+    text-align: center;
+    background-color: lightblue;
+}
+
+div.tablas{
+    background-color: lime;
+    color: blue;
+    padding-bottom: 15px;
+    padding-top: 10px;
+}
+
+span.amarillo{
+    background-color: yellow;
+}
+
+span.tachado{
+    text-decoration: line-through;
+}
+
+footer.abajo{
+    text-align: center;
+    font-weight: bold;
+}
+
+ol.romano{
+    list-style: upper-roman;
+}
+
+ol.letras{
+    list-style: upper-latin;
+}
